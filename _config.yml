@@ -1,6 +1,6 @@
 # Site settings
 title: Qookka - Transmitting Science
-email: fabiano.menegidio@biology.bio.br
+email: qookka@qookka.com.br
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://qookka.github.io" # the base hostname & protocol for your site
